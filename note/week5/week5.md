@@ -11,12 +11,12 @@
         * 大部分的情況不會去區分虛擬機及模擬器，皆用虛擬機一詞通稱
     * 定義
         * 虛擬機是軟體電腦，能提供與實體電腦相同的功能。如同實體電腦，虛擬機也會執行應用程式與作業系統。不過，虛擬機是在實體電腦上執行的電腦檔案，且行為近似實體電腦。換句話說，虛擬機的行為就如同個別的電腦系統一樣。
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/1.png)
 * 虛擬機範例
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/2.png)
 * 堆疊機執行流程(堆疊後進先出)
-![picture]()
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/4.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/5.png)
 ## ubuntu 下載 java
 * sudo apt-get update
 * sudo apt-get install default-jre
@@ -25,11 +25,11 @@
     * java -version
 * 下載make
     *  sudo apt-get install ubuntu-make
-    ![picture]()
+    ![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/6.png)
 * 測試
-![picture]()
-![picture]()
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/7.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/8.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week5/week5/9.png)
 ## C4 編譯器
 * C4 是 Robert Swierczek 寫的一個小型 C 語言編譯器，全部 527 行的原始碼都在 c4.c 裏 。
 * C4 編譯完成後，會產生一種《堆疊機機器碼》放在記憶體內，然後 虛擬機 會立刻執行該機器碼。

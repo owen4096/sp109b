@@ -30,15 +30,15 @@
 
 ## code 執行結果
 * task.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week9/week9/1.png)
 * vmem.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week9/week9/2.png)
 * mem.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week9/week9/3.png)
 * mem0.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week9/week9/4.png)
 * georgeMary.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week9/week9/5.png)
 
 
 

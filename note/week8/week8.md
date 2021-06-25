@@ -1,6 +1,6 @@
 ## UNIX
 * 使用者、多行程的電腦作業系統，源自於從20世紀70年代開始在美國AT&T公司的貝爾實驗室開發的AT&T Unix。
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week8/week8/1.png)
 
 ## vim使用備註:
 
@@ -16,10 +16,10 @@ p:貼上
 
 ## code 執行結果
 * erf.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week8/week8/2.png)
 * forever.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week8/week8/3.png)
 * file.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week8/week8/4.png)
 * fileWinLinux.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week8/week8/5.png)

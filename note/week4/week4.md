@@ -12,4 +12,4 @@
 ## Linux 用戶和用戶組管理管理
 * [Linux 用戶和用戶組管理管理](https://www.runoob.com/linux/linux-user-manage.html)
 ## 用Ubuntu執行
-![picture]()
+![picture](https://github.com/owen4096/sp109b/tree/main/note/week4/week4/1.png)
