@@ -2,12 +2,12 @@
 編譯器:
 編譯器是用來將高階語言轉換成組合語言 (或者是機器碼) 的工具程式。有了編譯器或直譯器，程式設計師才能用高階語言撰寫程式。因此，編譯器是程式設計師的重要工具，也是系統程式課程的重點之一。
 * 編譯器的基本功能
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/1.png)
 ## CPU處理程序
 * 組合語言（assembly language)是任何一種用於電腦、微處理器、微控制器，或其他可程式化器件的低階語言。在不同的裝置中，組合語言對應著不同的機器語言指令集。一種組合語言專用於某種電腦系統結構，而不像許多高階語言，可以在不同系統平台之間移植。
 * 機器語言（machine language）是一種指令集的體系。這種指令集稱為機器碼（machine code），是電腦的CPU可直接解讀的資料。
 * compiler(編譯器)->Assembler(組譯器)->Machine Lanuage(虛擬機)->CPU
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/2.png)
 
 
 * main.c經過compiler->main.s經過Assembler->main.o or main.exe
@@ -43,7 +43,7 @@
     * 中間碼(IR)
     * ASM
     * Obj
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/3.png)
 ## argc 與 argv應用
 * 若需要將執行程式時，使用者所輸入的命令列參數讀取進來，則可在 main 函數中加上 argc 與 argv 兩個參數
 ## Parser
@@ -57,13 +57,13 @@
 
 ## code 執行結果
 * genExp.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/genexp.png)
 * genEnglish.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/genEN.png)
 * exp0.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/exp.png)
 * exp0hack.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/exph.png)
 * exp0var.c
-![picture]()
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week2/week2/expv.png)
 
