@@ -23,4 +23,7 @@ git add -A
 git commit -m "註解"  
 git push origin mian(master)  
 
-git pull --rebase  
+git pull --rebase 
+
+gcc 程式名稱 -o 程式名稱
+./程式名稱
