@@ -9,7 +9,7 @@ fopen 使用說明:
 "rb"->二進位置的讀檔
 
 詞法分析器Lexer:
-[picture](https://github.com/owen4096/sp109b/tree/main/note/week3/week3/1.png)
+[picture](https://github.com/owen4096/sp109b/blob/main/note/week3/week3/1.png)
 [參考資料](https://zh.wikipedia.org/wiki/%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90)
 
 
@@ -23,11 +23,11 @@ char *strTable[] 字串陣列或字元指標陣列
 字串以空白為單位
 *p取內容 字元 只寫p代表指標
 扯到int P++會有影響 例如32位元 P++ -> +4
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week3/week3/2.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week3/week3/2.png)
 * pointer1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week3/week3/3.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week3/week3/3.png)
 * pointer1bug.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week3/week3/4.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week3/week3/4.png)
 
 
 
