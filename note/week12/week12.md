@@ -6,29 +6,29 @@
 
 ## code 執行結果
 * fork1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/1.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/1.png)
 * fork2.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/2.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/2.png)
 * fork3.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/3.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/3.png)
 * 02-child/fork2.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/4.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/4.png)
 * execvp1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/5.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/5.png)
 * system1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/6.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/6.png)
 * mysystem1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/7.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/7.png)
 * zombie.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/8.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/8.png)
 * echo1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/9.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/9.png)
 * fecho1.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/10.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/10.png)
 * fecho2.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/11.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/11.png)
 * myshell.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week12/week12/12.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week12/week12/12.png)
 
 
 
