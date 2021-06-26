@@ -11,8 +11,8 @@
 
 ## code 執行結果
 * producerConsumer.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week11/week11/1.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week11/week11/1.png)
 * philospher.c
-![picture](https://github.com/owen4096/sp109b/tree/main/note/week11/week11/2.png)
+![picture](https://github.com/owen4096/sp109b/blob/main/note/week11/week11/2.png)
 
 
